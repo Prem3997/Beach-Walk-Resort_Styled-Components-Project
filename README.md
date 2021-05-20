@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Example for Styled Components
+
+## Project Screenshots
+
+![image](https://user-images.githubusercontent.com/37274588/119025807-20cc8380-b9c2-11eb-9ab2-ddcd4dd40791.png)
+![image](https://user-images.githubusercontent.com/37274588/119025834-2924be80-b9c2-11eb-8a6a-b41cd7946692.png)
+![image](https://user-images.githubusercontent.com/37274588/119025877-317cf980-b9c2-11eb-82c9-3f64423e04dc.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
